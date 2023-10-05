@@ -1,0 +1,15 @@
+mode: count
+awesomeProject/usecases/student/create.go:7.81,13.2 3 2
+awesomeProject/usecases/student/delete.go:9.53,11.16 2 4
+awesomeProject/usecases/student/delete.go:11.16,13.3 1 1
+awesomeProject/usecases/student/delete.go:15.2,15.41 1 3
+awesomeProject/usecases/student/delete.go:15.41,17.3 1 1
+awesomeProject/usecases/student/delete.go:19.2,19.48 1 2
+awesomeProject/usecases/student/list.go:5.61,7.2 1 2
+awesomeProject/usecases/student/search.go:8.77,10.2 1 2
+awesomeProject/usecases/student/update.go:10.95,12.16 2 4
+awesomeProject/usecases/student/update.go:12.16,14.3 1 1
+awesomeProject/usecases/student/update.go:16.2,16.41 1 3
+awesomeProject/usecases/student/update.go:16.41,18.3 1 1
+awesomeProject/usecases/student/update.go:20.2,25.21 4 2
+awesomeProject/usecases/student/usecase.go:9.63,13.2 1 14
